@@ -43,6 +43,7 @@ Participant( Student )
 INVESTLIFT LIMITED (2017 - 2019), No. 6A Usan Iso road off Marian road, opposite first bank.
 
 **JUNIOR SOFTWARE DEVELOPER**
+
 *Notable accomplishment*:
 
 * Micheno IML Software (fullstack)
