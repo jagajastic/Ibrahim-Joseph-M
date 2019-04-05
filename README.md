@@ -22,7 +22,7 @@ As a committed software developer with just over two years’ experience of full
 * **LANGUAGE**: Javascript, GOLANG, SQL
 
 
-# PREFESSIONAL EXPERIENCE
+# Professional Experience
 
 DECAGON SOFTWARE INSTITUTE (2019 - Present), Lekki ekpe express way.
 
@@ -49,3 +49,13 @@ INVESTLIFT LIMITED (2017 - 2019), No. 6A Usan Iso road off Marian road, opposite
 * Pyaroll System (fullstack)
 * Lifthub market (front-end)
 
+# Education and Certification
+
+**ABUBAKAR TAFAWA BALEWA UNIVERSITY** Bauchi state 
+**Bachelor of Technology**, Computer Science
+
+**DECAGON SOFTWARE INSTITUTE**, Junior Software engineer (inview)
+
+**FRONT-END DEVELOPMENT**, ALC (Google, Andela, Udacity)
+
+**DIGITAL MARKETING**, Google digital marketting fundamentals
